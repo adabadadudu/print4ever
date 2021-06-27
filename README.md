@@ -2,7 +2,7 @@
 print for ever a particular
 
 ### Build
-**build** ***instruction***
+***build*** **instruction**
 *to build run following command in your terminal shell*
 
 * [Windows]() | [Linux]()
